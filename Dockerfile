@@ -1,5 +1,5 @@
-#FROM adoptopenjdk/openjdk11 
-FROM azul/zulu-openjdk-alpine       
+FROM adoptopenjdk/openjdk11 
+#FROM azul/zulu-openjdk-alpine       
 EXPOSE 8080
  
 ENV APP_HOME /usr/src/app
